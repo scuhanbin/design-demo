@@ -4,7 +4,7 @@ import org.junit.Test;
 
 public class TestAdapter {
 	/**
-	 * ÀàµÄÊÊÅäÆ÷Ä£Ê½£ºÊÊÅäÆ÷ÊµÏÖ±»ÊÊÅä½Ó¿ÚSource£¬¼Ì³ĞÒªÊÊÅäµÄÀàTarget£¬ÔÚÖØĞ´µÄ·½·¨ÖĞµ÷ÓÃTargetµÄ·½·¨
+	 * ç±»çš„é€‚é…å™¨æ¨¡å¼ï¼šé€‚é…å™¨å®ç°è¢«é€‚é…æ¥å£Sourceï¼Œç»§æ‰¿è¦é€‚é…çš„ç±»Targetï¼Œåœ¨é‡å†™çš„æ–¹æ³•ä¸­è°ƒç”¨Targetçš„æ–¹æ³•
 	 */
 	@Test
 	public void testClassAdapter() {
@@ -12,7 +12,7 @@ public class TestAdapter {
 	}
 
 	/**
-	 * ¶ÔÏóµÄÊÊÅäÆ÷Ä£Ê½£ºÊÊÅäÆ÷ÊµÏÖ±»ÊÊÅä½Ó¿ÚSource£¬ÔÚÔÚÖØĞ´µÄ·½·¨ÖĞTargetµÄÒ»¸öÊµÀıµ÷ÓÃÆä·½·¨
+	 * å¯¹è±¡çš„é€‚é…å™¨æ¨¡å¼ï¼šé€‚é…å™¨å®ç°è¢«é€‚é…æ¥å£Sourceï¼Œåœ¨é‡å†™çš„æ–¹æ³•ä¸­ç”¨Targetçš„ä¸€ä¸ªå®ä¾‹è°ƒç”¨å…¶æ–¹æ³•
 	 */
 	@Test
 	public void testObjectAdapter() {

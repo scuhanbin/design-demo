@@ -1,15 +1,15 @@
 package com.hanbin.observer;
 
 public interface Subject {
-	// Ìí¼Ó¶©ÔÄÕß
+	// æ·»åŠ è®¢é˜…è€…
 	void add(Observer observer);
 
-	// ÒÆ³ı¶©ÔÄÕß
+	// åˆ é™¤è®¢é˜…è€…
 	void del(Observer observer);
 
-	// ·¢²¼ĞÂµÄÎÄÕÂ
+	// å…¬ä¼—å·æ›´æ–°
 	void operation(String text);
 
-	// ÍÆËÍ¸øËùÓĞ¶©ÔÄÕß
+	// é€šçŸ¥æ‰€æœ‰è®¢é˜…è€…
 	void notifyAll(String text);
 }

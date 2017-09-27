@@ -3,6 +3,6 @@ package com.hanbin.factorymethod;
 public class EmailSender implements Sender {
 	@Override
 	public void send() {
-		System.out.println("Í¨¹ıÓÊ¼ş·¢ËÍÏûÏ¢¡£¡£¡£");
+		System.out.println("Í¨é€šè¿‡é‚®ä»¶å‘é€æ¶ˆæ¯");
 	}
 }

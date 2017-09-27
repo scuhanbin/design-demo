@@ -1,7 +1,7 @@
 package com.hanbin.signleton;
 
 /**
- * �Ƽ�ʹ��(��ࡢ����)
+ * 线程安全的内部类：枚举（推荐使用）
  */
 enum SafeLazySignleton4 {
 	instance;

@@ -1,7 +1,7 @@
 package com.hanbin.signleton;
 
 /**
- * °²È«µÄÀÁººÊ½µ¥Àı£¨Í¬²½»ñÈ¡ÊµÀıµÄ·½·¨£© È±µã£ºĞ§ÂÊµÍ
+ * å®‰å…¨çš„æ‡’æ±‰å¼å•ä¾‹ï¼ˆåŒæ­¥è·å–å®ä¾‹çš„æ–¹æ³•ï¼‰ ç¼ºç‚¹ï¼šæ•ˆç‡ä½
  */
 public class SafeLazySignleton1 {
 	private static SafeLazySignleton1 signleton = null;

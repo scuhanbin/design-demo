@@ -1,9 +1,5 @@
 package com.hanbin.observer;
 
-/**
- * ¹Û²ìÕßÄ£Ê½ÊµÀı£º¹«ÖÚºÅSubject£¬¹Û²ìÕßObserver
- *
- */
 public class ObserverTest {
 
 	public static void main(String[] args) {
@@ -12,7 +8,7 @@ public class ObserverTest {
 		subject.add(new Observer1());
 		subject.add(new Observer2());
 
-		subject.operation("Éè¼ÆÄ£Ê½Ö®¹Û²ìÕßÄ£Ê½");
+		subject.operation("è®¾è®¡æ¨¡å¼ä¹‹è§‚å¯Ÿè€…æ¨¡å¼");
 	}
 
 }

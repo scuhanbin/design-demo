@@ -1,5 +1,9 @@
 package com.hanbin.signleton;
 
+/**
+ * 
+ * 线程安全的单例：静态内部类
+ */
 public class SafeLazySignleton3 {
 	private SafeLazySignleton3() {
 	}

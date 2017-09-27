@@ -1,7 +1,7 @@
 package com.hanbin.signleton;
 
 /**
- * 懒汉式单例(线程不安全)：第一次获取实例时创建对象
+ * 鎳掓眽寮忓崟渚嬶紙闈炵嚎绋嬪畨鍏級:绗竴娆¤幏鍙栧疄渚嬫椂鍒涘缓瀵硅薄
  */
 public class LazySignleton {
 	private static LazySignleton signleton = null;

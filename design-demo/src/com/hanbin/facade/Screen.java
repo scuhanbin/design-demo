@@ -4,13 +4,13 @@ public class Screen implements Operate {
 
 	@Override
 	public void on() {
-		System.out.println("ÆÁÄ»¿ªÆôÁË");
+		System.out.println("å±å¹•æ‰“å¼€äº†");
 
 	}
 
 	@Override
 	public void off() {
-		System.out.println("ÆÁÄ»¹Ø±ÕÁË");
+		System.out.println("å±å¹•å…³é—­äº†");
 	}
 
 }

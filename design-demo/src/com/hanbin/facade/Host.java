@@ -4,12 +4,12 @@ public class Host implements Operate {
 
 	@Override
 	public void on() {
-		System.out.println("Ö÷»úÆô¶¯ÁË");
+		System.out.println("ä¸»æœºå¯åŠ¨äº†");
 	}
 
 	@Override
 	public void off() {
-		System.out.println("Ö÷»ú¹Ø±ÕÁË");
+		System.out.println("ä¸»æœºå…³é—­äº†");
 	}
 
 }

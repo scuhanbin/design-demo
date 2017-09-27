@@ -14,6 +14,6 @@ public class StaticProxy implements Caculate {
 	}
 
 	private void before() {
-		System.out.println("·½·¨±»µ÷ÓÃÇ°");
+		System.out.println("æ–¹æ³•æ‰§è¡Œä¹‹å‰ã€‚ã€‚ã€‚ã€‚");
 	}
 }

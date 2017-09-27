@@ -3,6 +3,6 @@ package com.hanbin.factorymethod;
 public class SmsSender implements Sender {
 	@Override
 	public void send() {
-		System.out.println("Í¨¹ı¶ÌĞÅ·¢ËÍÏûÏ¢¡£¡£¡£");
+		System.out.println("Í¨é€šè¿‡çŸ­ä¿¡å‘é€æ¶ˆæ¯");
 	}
 }

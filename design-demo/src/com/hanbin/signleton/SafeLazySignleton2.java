@@ -1,7 +1,7 @@
 package com.hanbin.signleton;
 
 /**
- * 线程安全的懒汉式单例：同步代码块
+ * 绾跨▼瀹夊叏鐨勬噿姹夊紡鍗曚緥锛氬悓姝ヤ唬鐮佸潡
  */
 public class SafeLazySignleton2 {
 	private static SafeLazySignleton2 signleton = null;

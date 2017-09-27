@@ -4,7 +4,7 @@ import org.junit.Test;
 
 public class ProxyTest {
 	/**
-	 * ¾²Ì¬´úÀí£º´úÀíÀà¸ú±»´úÀíÀàÊµÏÖÍ¬Ò»¸ö½Ó¿Ú£¬¸ø´úÀíÀà´«ÈëÒ»¸ö±»´úÀíÀà¶ÔÏó£¬ ´úÀíÀàÖØÐ´µÄ·½·¨ÖÐÓÃ±»´úÀíÀàµÄ¶ÔÏóµ÷ÓÃ±»´úÀíÀàµÄ·½·¨
+	 * é™æ€ä»£ç†ï¼šä»£ç†ç±»è·Ÿè¢«ä»£ç†ç±»å®žçŽ°åŒä¸€ä¸ªæŽ¥å£ï¼Œç»™ä»£ç†ç±»ä¼ å…¥ä¸€ä¸ªè¢«ä»£ç†ç±»å¯¹è±¡ï¼Œ ä»£ç†ç±»é‡å†™çš„æ–¹æ³•ä¸­ç”¨è¢«ä»£ç†ç±»çš„å¯¹è±¡è°ƒç”¨è¢«ä»£ç†ç±»çš„æ–¹æ³•
 	 */
 	@Test
 	public void testStaticProxy() {
@@ -13,7 +13,7 @@ public class ProxyTest {
 	}
 
 	/**
-	 * ¶¯Ì¬´úÀí
+	 * åŠ¨æ€ä»£ç†
 	 */
 	@Test
 	public void testDynamicProxy() {

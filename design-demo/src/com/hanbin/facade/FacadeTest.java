@@ -4,7 +4,7 @@ import org.junit.Test;
 
 public class FacadeTest {
 	/**
-	 * ÃÅÃæÄ£Ê½ÎªÒ»ÏµÁĞ²Ù×÷Ìá¹©Ò»¸öÍ³Ò»µÄÈë¿Ú
+	 * é—¨é¢æ¨¡å¼ä¸ºä¸€ç³»åˆ—æ“ä½œæä¾›ä¸€ä¸ªç»Ÿä¸€çš„å…¥å£
 	 */
 	@Test
 	public void test() {

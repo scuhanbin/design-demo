@@ -1,7 +1,7 @@
 package com.hanbin.signleton;
 
 /**
- * ¶öººÊ½µ¥Àı(Ïß³Ì°²È«)
+ * é¥¿æ±‰å¼å•ä¾‹ï¼ˆçº¿ç¨‹å®‰å…¨ï¼‰
  *
  */
 public class HungrySignleton {
